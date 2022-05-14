@@ -1,9 +1,9 @@
+import { theme } from "styles/theme"
 import type { AppProps } from "next/app"
 import Head from "next/head"
 import NextNProgress from "nextjs-progressbar"
 import { ThemeProvider } from "styled-components"
-import { GlobalStyles } from "../styles/GlobalStyles"
-import { theme } from "../styles/theme"
+import { GlobalStyles } from "styles/GlobalStyles"
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
