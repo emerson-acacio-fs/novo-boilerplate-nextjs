@@ -16,38 +16,6 @@
   "javascript.suggest.autoImports": true,
   "extension.changeCase.commands": true,
   "styledComponentsExtractor.addImportStatement": true,
-  "sqltools.connections": [
-    {
-      "previewLimit": 50,
-      "connectString": "postgres://usbwbd_integrispan:postgrespassword@localhost:5432/sbwbd",
-      "driver": "PostgreSQL",
-      "name": "IntegriSpan"
-    }
-  ],
-  "cSpell.words": [
-    "antd",
-    "Cascader",
-    "CHOKIDAR",
-    "dgraph",
-    "dind",
-    "gitlab",
-    "grahpql",
-    "hasura",
-    "Inps",
-    "Inpusts",
-    "Integri",
-    "Integridutos",
-    "INTEGRIDUTOS",
-    "integrispan",
-    "Plotly",
-    "postgres",
-    "rrdls",
-    "subweb",
-    "USEPOLLING",
-    "uuidv",
-    "WEVERTONM"
-  ],
-
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "npm-intellisense.importES6": true,
   "npm-intellisense.importQuotes": "'",
